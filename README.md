@@ -1,4 +1,4 @@
-# H1
+# Rice Bootcamp Sample Repository
 
 ![Rice Logo](images/Rice_Logo.png)
 
