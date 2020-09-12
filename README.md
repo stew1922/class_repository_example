@@ -1,25 +1,9 @@
-# NEW - heading 1
-## Heading 2
+# H1
 
-### Heading 3
+![Rice Logo](Rice_Logo.png)
 
-_italics for words_
+## README Description
 
-**Bold the dang words**
+### Table of Contents
 
-To make a list use bullet points:
-* stuff here
-* stuff there
-* really cool stuff
-
-
-
-```python 
-import pandas
-import json
-```
-
-link to a website using [great website search tool](https://google.com)
-
-[jump to the top](#New---heading-1)
-
+[Code Folder](code/)
