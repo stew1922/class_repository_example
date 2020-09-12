@@ -1,6 +1,6 @@
 # Rice Bootcamp Repository
 
-![Rice Logo](images/Rice_Logo.png)
+![Rice Logo](./images/Rice_Logo.png)
 
 ## README Description
 
